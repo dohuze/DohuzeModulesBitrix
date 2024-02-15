@@ -1,0 +1,7 @@
+.sms-form__container::before{
+    background-color: rgba(46, 49, 49, 1) !important;
+}
+
+.sms-form{
+    z-index: 999;
+}

@@ -1,0 +1,9 @@
+.sms-form__title {
+		color: #76BC21 !important;
+	}
+
+	.sms-form__submitter {
+		color: #fff !important;
+		background: #76BC21 0% 0% no-repeat padding-box !important;
+		border-radius: 2px !important;
+	}

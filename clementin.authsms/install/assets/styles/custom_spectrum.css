@@ -1,0 +1,36 @@
+/* .adm-detail-content-cell-r {
+	position: relative;
+} */
+
+.sp-dd {
+	display: none;
+}
+
+.sp-replacer {
+	background: unset;
+    border: unset;
+	position: absolute;
+	right: -4px;
+}
+
+.sp-preview, .sp-alpha, .sp-thumb-el {
+    position: relative;
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAIAAADZF8uwAAAAGUlEQVQYV2M4gwH+YwCGIasIUwhT25BVBADtzYNYrHvv4gAAAABJRU5ErkJggg==);
+	overflow: hidden;
+	border-radius: 50%;
+	height: 17px;
+	width: 17px;
+}
+
+.sp-initial {
+	display: none;
+}
+
+.sp-input-container {
+	display: none;
+}
+
+#parent_div {
+	position: relative;
+	display: inline-block;
+}
